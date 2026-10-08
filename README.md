@@ -1,6 +1,6 @@
 # 🌌 Starfall
 
-**A 2D narrative adventure where the stars are mysteriously losing their energy and plummeting to Earth.**
+**Starfall** is a **2D narrative video game** that bridges the gap between active player agency and structured storytelling. Developed as my thesis project to explore human storytelling instincts and intermediality, the game challenges players with **ethical choices** and **mechanical obstacles** that directly impact the narrative flow. Driven by an integrated storytelling engine, your decisions culminate in distinct, **emotionally charged endings**.
 
 🎮 **[Play the game directly in your browser on Itch.io!](https://tamaciachi.itch.io/starfall-project)**
 
